@@ -13,14 +13,14 @@ author_title_prefix: 'Posted by '
 media_folder: /img
 author_default_avatar: /profile-pic.jpg
 
-tumblr: "thedividedsky12"
+tumblr: "https://www.tumblr.com/blog/thedividedsky12"
 #pinterest: "#"
-instagram: "takenakanda"
-twitter: "takenakanda"
-facebook: "toshiyuki.takenaka.7"
+instagram: "https://www.instagram.com/takenakanda"
+twitter: "https://twitter.com/takenakanda"
+facebook: "https://www.facebook.com/toshiyuki.takenaka.7"
 #youtube: "#"
 #vimeo: "#"
-soundcloud: "toshiyuki-takenaka"
+soundcloud: "https://soundcloud.com/toshiyuki-takenaka"
 
 encoding: utf-8
 defaults:
