@@ -1,6 +1,6 @@
-name: Twister
+name: PUBLIC
 description: a powerful jekyll theme
-url: #place url
+url: https://take12.github.io/ #place url
 gems: [jekyll-paginate]
 baseurl: #place folder name if site is served in subfolder
 permalink: /:title/
@@ -12,14 +12,15 @@ author_dir: /author
 author_title_prefix: 'Posted by '
 media_folder: /img
 author_default_avatar: /profile-pic.jpg
-tumblr: "#"
-pinterest: "#"
-instagram: "#"
-twitter: "#"
-facebook: "#"
-youtube: "#"
-vimeo: "#"
-soundcloud: "#"
+
+tumblr: "thedividedsky12"
+#pinterest: "#"
+instagram: "takenakanda"
+twitter: "takenakanda"
+facebook: "toshiyuki.takenaka.7"
+#youtube: "#"
+#vimeo: "#"
+soundcloud: "toshiyuki-takenaka"
 
 encoding: utf-8
 defaults:
