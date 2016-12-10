@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: profile
 featimg: 8.jpg
-title: Page
+title: profile
 ---
-## This is a static page
+## This is a static profile
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit voluptatibus, assumenda perspiciatis vel eos, molestias nisi cum accusantium commodi amet modi repellendus. Nostrum iure fugiat ducimus quae nesciunt distinctio ullam.
 
