@@ -20,9 +20,9 @@ countdown:
 owner:
   name: Toshiyuki Takenaka
   email: takenaka@attitude-toward.com
-  twitter:
+  twitter: "https://twitter.com/takenakanda"
   google-plus:
-  instagramm:
+  instagramm: "https://www.instagram.com/takenakanda"
   #Aboutlink = German "Impressum", provide url and caption (eg "Impressum")
   aboutlink:
     url:
