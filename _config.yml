@@ -3,9 +3,9 @@
 title: "A Coming Soon"
 description: ""
 #if you modify locale please have a look at _data/messages.yml too
-locale: en
+locale: jp
 #for meta name="author" :
-author: 
+author: Toshiyuki Takenaka
 
 #Target date in UTC / GMT
 countdown:
@@ -19,7 +19,7 @@ countdown:
 # Site owner
 owner:
   name: Toshiyuki Takenaka
-  email:
+  email: takenaka@attitude-toward.com
   twitter:
   google-plus:
   instagramm:
