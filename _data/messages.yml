@@ -45,14 +45,6 @@ locales:
     <<: *DEFAULT_EN      # load English values as default --> values, that are not listed below will get the english translation
 
 
-jp: &DEFAULT_JP
-Days: "日"
-Hours: "時間"
-Minutes: "分"
-Seconds: "秒"
-Learn_More: "Learn More"
-
-
   # Other translations (TODO)
   # -------------------     
   # To add an other translation:
