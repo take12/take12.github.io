@@ -1,8 +1,8 @@
 name: attitude
-description: description
-url: https://take12.github.io #place url
+description: Take Homepage
+url: https://take12.github.io/ #place url
 gems: [jekyll-paginate]
-baseurl: /take12.github.io #place folder name if site is served in subfolder
+baseurl: #place folder name if site is served in subfolder
 permalink: /:title/
 paginate: 8
 paginate_path: /page/:num/
